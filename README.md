@@ -1,2 +1,2 @@
 # ciprian
-Private homepag of Ciprian Gerstenberger
+Ciprian Gerstenberger's homepage
